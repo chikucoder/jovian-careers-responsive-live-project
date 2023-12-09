@@ -75,7 +75,7 @@ h2 {
     margin: 0 auto;
     padding: 0 8px;
 }
-#job-list{
+#jobs-list{
     display: block;
 }
 #jobs-table{
@@ -203,7 +203,7 @@ font: weight 600;
     #jobs{
         min-width: 800px;
     }
-    #job-list{
+    #jobs-list{
         display: none;
     }
     #jobs-table {
